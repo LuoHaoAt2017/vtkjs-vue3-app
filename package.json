@@ -8,12 +8,16 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@kitware/vtk.js": "^28.2.1",
-    "vue": "^3.3.2",
-    "vue-router": "^4.2.0"
+    "@kitware/vtk.js": "28.2.1",
+    "moment": "2.29.4",
+    "portal-vue": "^3.0.0",
+    "vue": "3.3.2",
+    "vue-router": "4.2.0",
+    "vuetify": "3.3.2",
+    "vuex": "4.1.0"
   },
   "devDependencies": {
-    "@vitejs/plugin-vue": "^4.2.3",
-    "vite": "^4.3.5"
+    "@vitejs/plugin-vue": "4.2.3",
+    "vite": "4.3.5"
   }
 }
